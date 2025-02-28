@@ -6,22 +6,11 @@
             "title_long": "**Contact** Me"
         },
 
-        "es": {
-            "title": "Contacto",
-            "title_long_prefix": "No dudes en",
-            "title_long": "**Contácta**me"
-        },
 
         "fr": {
             "title": "Contact",
             "title_long_prefix": "N'hésitez pas à",
             "title_long": "Me **Contacter**"
-        },
-
-        "ko": {
-            "title": "연락처",
-            "title_long_prefix": "주저하지 말고",
-            "title_long": "**연락** 주세요"
         }
     },
 
@@ -55,7 +44,7 @@
 
             "items": [
                 {
-                    "value": "+1 (123) 456-7890",
+                    "value": "+1 (514) 836-3368",
                     "links": [
                         {"href": "tel:11234567890"}
                     ],
@@ -73,9 +62,9 @@
                 },
 
                 {
-                    "value": "mark.choi@email.com",
+                    "value": "tim891@outlook.fr",
                     "links": [
-                        {"href": "mailto:mark.choi@email.com"}
+                        {"href": "tim891@outlook.fr"}
                     ],
                     "icon": {
                         "img": null,
@@ -89,7 +78,7 @@
                 },
 
                 {
-                    "value": "@markchoi",
+                    "value": "@hatimhatimi",
                     "links": [
                         {"href": "https://linkedin.com"}
                     ],
@@ -104,9 +93,9 @@
                 },
 
                 {
-                    "value": "Mark Choi",
+                    "value": "hatimi hatim",
                     "links": [
-                        {"href": "https://facebook.com"}
+                        {"href": "https://www.facebook.com/hatim.hatimi.399?locale=fr_CA"}
                     ],
                     "icon": {
                         "img": null,
@@ -119,9 +108,9 @@
                 },
 
                 {
-                    "value": "@markchoi",
+                    "value": "@dunelop20",
                     "links": [
-                        {"href": "https://instagram.com"}
+                        {"href": "https://www.instagram.com/dune.lope20/"}
                     ],
                     "icon": {
                         "img": null,
@@ -134,7 +123,7 @@
                 },
 
                 {
-                    "value": "@markchoi",
+                    "value": "@tim",
                     "links": [
                         {"href": "https://tiktok.com"}
                     ],

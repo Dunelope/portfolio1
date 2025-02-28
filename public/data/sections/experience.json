@@ -54,20 +54,20 @@
                         "faColors": {"bg": null, "fill": null}
                     },
                     "dates": {
-                        "start": "08/27/2021",
-                        "end": "06/01/2022"
+                        "start": "06/01/2022",
+                        "end": "08/01/2023"
                     },
                     "locales": {
                         "en": {
-                            "title": "**Crew** Member",
+                            "title": "**Manager**",
                             "info": "McDonald's.",
                             "text": "Ensure good customer service, food preparation in accordance with quality standards. Maintain equipment in good working order. This may include cleaning work surfaces, utensils, grills, etc.",
                             "tags": null
                         },
                         "fr": {
-                            "title": "Équipier",
+                            "title": "Chef de quart",
                             "info": "McDonald's.",
-                            "text": "Assurer un bon service a la clientèle, la préparation des aliments conformément aux normes de qualité.Maintenir l'équipement en bon état de fonctionnement. Cela peut inclure le nettoyage des surfaces de travail, des ustensiles, des grils, etc.",
+                            "text": "Supervisison du personnel : Diriger, superviser les équipiers en attribuant des taches, suivi des performances et la gestion des horaires.Gestion du stock, respect des normes de sécuritéet hygiene.",
                             "tags": null
                         }
                     }
