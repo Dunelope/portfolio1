@@ -52,17 +52,6 @@
                         "fa": "fa-solid fa-envelope",
                         "faColors": {"bg": null, "fill": null}
                     }
-                },
-                {
-                    "value": "@dunelope",
-                    "links": [
-                        {"href": "https://github.com/Dunelope"}
-                    ],
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-github",
-                        "faColors": {"bg": null, "fill": null}
-                    }
                 }
             ]
         },
