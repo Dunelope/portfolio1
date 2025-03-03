@@ -54,20 +54,20 @@
                         "faColors": {"bg": null, "fill": null}
                     },
                     "dates": {
-                        "start": "08/27/2021",
-                        "end": "06/01/2022"
+                        "start": "06/01/2022",
+                        "end": "10/01/2023"
                     },
                     "locales": {
                         "en": {
-                            "title": "**Crew** Member",
+                            "title": "Manager",
                             "info": "McDonald's.",
-                            "text": "Ensure good customer service, food preparation in accordance with quality standards. Maintain equipment in good working order. This may include cleaning work surfaces, utensils, grills, etc.",
+                            "text": "Supervised daily restaurant operations, ensuring efficiency and high-quality customer service. Oversaw inventory, placed orders, and reduced waste to control costs. Ensured compliance with health, safety, and food hygiene regulations.Handled cash management, sales tracking, and financial reporting. Resolved customer concerns and maintained a positive dining experience. Managed staff scheduling, task allocation, and workflow optimization.",
                             "tags": null
                         },
                         "fr": {
-                            "title": "Équipier",
+                            "title": "chef de quart",
                             "info": "McDonald's.",
-                            "text": "Assurer un bon service a la clientèle, la préparation des aliments conformément aux normes de qualité.Maintenir l'équipement en bon état de fonctionnement. Cela peut inclure le nettoyage des surfaces de travail, des ustensiles, des grils, etc.",
+                            "text": "Supervisé les opérations quotidiennes du restaurant en garantissant l’efficacité et un service client de haute qualité. Géré les stocks, passé les commandes et réduit le gaspillage pour optimiser les coûts. Assuré le respect des normes de santé, de sécurité et d’hygiène alimentaire. Géré la caisse, suivi les ventes et réalisé des rapports financiers. Résolu les préoccupations des clients tout en maintenant une expérience de restauration positive. Planifié les horaires du personnel, attribué les tâches et optimisé le flux de travail.",
                             "tags": null
                         }
                     }
